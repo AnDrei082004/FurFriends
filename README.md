@@ -26,12 +26,13 @@ Conditions to run locally:
 1st step download the zip file.
 2nd step extract the zip file.
 3rd step open the extracted zip file in VsCode.
-4th step open the integrated terminal for websocket.js.
-    4.1 download the required modules for the websocket (npm Innit, npm install ws, express).
-	4.2 type “node websocket.js” in the terminal.
-5th step get the api keys and subsitute the one in the js
-    https://thedogapi.com/
-    https://thecatapi.com/
+4th step open the integrated terminal for ws_server
+    4.1 download the required modules for the websocket 
+    	npm init-y
+     	npm i ws
+      	npm i http
+       	npm i express
+5th open the integrated terminal for websocket.js then type node websocket.js
 6th step proceed in running the html file to open the website.
 
 
